@@ -1,0 +1,5 @@
+python>=3.10
+gymnasium==1.1.0
+numpy==2.2.3
+pillow==11.1.0
+pygame-ce==2.5.7

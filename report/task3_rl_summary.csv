@@ -1,0 +1,9 @@
+Split,Method,Mean total reward,Mean steps,Success rate,Death rate,Mean correct kills,Mean wrong weapon count,Mean wall hits
+Validation,Random policy,-580.04,295.8,0.0,0.56,0.8,0.44,37.44
+Validation,Heuristic policy,74.32,52.2,1.0,0.0,2.32,0.0,0.0
+Validation,Q-learning,-35.08,113.88,0.8,0.0,1.6,0.0,0.0
+Validation,SARSA,9.08,94.68,0.84,0.0,1.72,0.0,0.0
+Test,Random policy,-515.16,264.12,0.12,0.6,0.56,0.48,33.96
+Test,Heuristic policy,80.8,47.48,1.0,0.0,2.48,0.0,0.0
+Test,Q-learning,-156.88,230.16,0.56,0.0,1.52,0.0,0.0
+Test,SARSA,-156.88,230.16,0.56,0.0,1.52,0.0,0.0
